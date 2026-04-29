@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brio support\\Desktop\\PProjects\\productStoreIg\\WebApisforstorebySuchi\\WebApisforstorebySuchi.csproj": {}
+    "C:\\Users\\brio support\\Desktop\\PProjects\\GitProjects\\BackendWebapistorebysuchi\\storeBySuchiWebapi\\WebApisforstorebySuchi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brio support\\Desktop\\PProjects\\productStoreIg\\WebApisforstorebySuchi\\WebApisforstorebySuchi.csproj": {
+    "C:\\Users\\brio support\\Desktop\\PProjects\\GitProjects\\BackendWebapistorebysuchi\\storeBySuchiWebapi\\WebApisforstorebySuchi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brio support\\Desktop\\PProjects\\productStoreIg\\WebApisforstorebySuchi\\WebApisforstorebySuchi.csproj",
+        "projectUniqueName": "C:\\Users\\brio support\\Desktop\\PProjects\\GitProjects\\BackendWebapistorebysuchi\\storeBySuchiWebapi\\WebApisforstorebySuchi.csproj",
         "projectName": "WebApisforstorebySuchi",
-        "projectPath": "C:\\Users\\brio support\\Desktop\\PProjects\\productStoreIg\\WebApisforstorebySuchi\\WebApisforstorebySuchi.csproj",
+        "projectPath": "C:\\Users\\brio support\\Desktop\\PProjects\\GitProjects\\BackendWebapistorebysuchi\\storeBySuchiWebapi\\WebApisforstorebySuchi.csproj",
         "packagesPath": "C:\\Users\\brio support\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brio support\\Desktop\\PProjects\\productStoreIg\\WebApisforstorebySuchi\\obj\\",
+        "outputPath": "C:\\Users\\brio support\\Desktop\\PProjects\\GitProjects\\BackendWebapistorebysuchi\\storeBySuchiWebapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

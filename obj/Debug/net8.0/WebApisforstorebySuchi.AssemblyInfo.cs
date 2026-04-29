@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApisforstorebySuchi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ba5d73b72b9bdf446f027a1f4c49570e63d9c6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApisforstorebySuchi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApisforstorebySuchi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

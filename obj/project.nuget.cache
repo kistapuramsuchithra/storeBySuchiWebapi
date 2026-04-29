@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CMPEZ7cUWIs=",
+  "dgSpecHash": "0oTUfQXYmio=",
   "success": true,
-  "projectFilePath": "C:\\Users\\brio support\\Desktop\\PProjects\\productStoreIg\\WebApisforstorebySuchi\\WebApisforstorebySuchi.csproj",
+  "projectFilePath": "C:\\Users\\brio support\\Desktop\\PProjects\\GitProjects\\BackendWebapistorebysuchi\\storeBySuchiWebapi\\WebApisforstorebySuchi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brio support\\.nuget\\packages\\dapper\\2.1.72\\dapper.2.1.72.nupkg.sha512",
     "C:\\Users\\brio support\\.nuget\\packages\\microsoft.bcl.cryptography\\8.0.0\\microsoft.bcl.cryptography.8.0.0.nupkg.sha512",
